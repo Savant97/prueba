@@ -1,4 +1,6 @@
 # prueba
 # modificado
 
-# He modificado de nuevo el fichero y lo debo subir al repo de githuÂb
+# He modificado de nuevo el fichero y lo debo subir al repo de githuÃ‚b
+
+# Modifico y lo traigo con git pull
